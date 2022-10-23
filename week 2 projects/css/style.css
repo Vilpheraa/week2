@@ -1,0 +1,66 @@
+.plan {
+    border: 1px solid ;
+    width: 250px ;
+    height: 450px;
+    border-radius: 6px;
+    background-color: azure;
+    
+    
+    
+}
+header {
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+main {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.plan.second {
+    height: 490px;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+.plan.first {
+    margin-top: 50px;
+    text-align: center;
+}
+.plan.third {
+    margin-top: 50px;
+    text-align: center;
+}
+.mt {
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.P1 {
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(245, 245, 21);
+}
+.value {
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1000;
+    color: rgb(78, 31, 133);
+}
+.write {
+    font-size: large;
+}
+a {
+    font-size: larger;
+    
+    
+}
+
+body {
+    background-color: rgb(78, 31, 133);
+}
+.emoji {
+    font-size: xx-large;
+}
